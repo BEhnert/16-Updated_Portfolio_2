@@ -13,4 +13,8 @@ Projects
 Github
     Profile picture added, email confirmed, pins updated
 
+Link to Portfolio - 
+
+    https://behnert.github.io/16-Updated_Portfolio_2/
+
     
